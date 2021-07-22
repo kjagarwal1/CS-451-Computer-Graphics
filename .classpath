@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jimxc/Dropbox/JOGL2020/jogamp-all-platforms/jar/gluegen-rt.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/jimxc/Dropbox/JOGL2020/gluegen/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/jimxc/Dropbox/JOGL2020/jogamp-all-platforms/lib/windows-amd64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jimxc/Dropbox/JOGL2020/jogamp-all-platforms/jar/jogl-all.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/jimxc/Dropbox/JOGL2020/jogl/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/jimxc/Dropbox/JOGL2020/jogamp-all-platforms/lib/windows-amd64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
